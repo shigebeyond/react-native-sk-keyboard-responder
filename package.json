@@ -1,0 +1,35 @@
+{
+  "name": "react-native-sk-keyboard-responder",
+  "version": "1.0.0",
+  "description": "Component which wrap a View, and respond to keyboard show up: 1 move up 2 reduce height",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shigebeyond/react-native-sk-keyboard-responder.git"
+  },
+  "keywords": [
+    "react-native",
+    "keyboard-respond",
+    "keyboard-aware",
+    "move-up",
+    "reduce-height"
+  ],
+  "dependencies": {
+    "react-native": "^0.20.0"
+  },
+  "peerDependencies": {
+    "react-native": "^0.20.0"
+  },
+  "devDependencies": {
+    "react-native": "^0.20.0"
+  },
+  "author": "shigebeyond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigebeyond/react-native-sk-keyboard-responder/issues"
+  },
+  "homepage": "https://github.com/shigebeyond/react-native-sk-keyboard-responder#readme"
+}
