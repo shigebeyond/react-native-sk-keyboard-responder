@@ -36,7 +36,7 @@ respond to reducing view's height
 
 1. `npm install react-native-sk-keyboard-responder@latest --save`
 
-2. use **KeyBoardMoveView**
+2. use KeyBoardMoveView
 
 Move view up when keyboard show, move view down when keyboard hide
 
@@ -113,7 +113,9 @@ Change view's position, not change any view's size
 ```
 ![](https://raw.githubusercontent.com/shigebeyond/react-native-sk-keyboard-responder/master/demo-move-up.gif)
 
-3. use **KeyBoardResizeView**
+---------------------------------------------------------------------------------------------------------
+
+3. use KeyBoardResizeView
 
 Reduce view's height when keyboard show, expand view's height when keyboard hide
 
