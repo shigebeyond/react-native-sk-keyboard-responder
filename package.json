@@ -20,12 +20,6 @@
   "dependencies": {
     "react-native": "^0.20.0"
   },
-  "peerDependencies": {
-    "react-native": "^0.20.0"
-  },
-  "devDependencies": {
-    "react-native": "^0.20.0"
-  },
   "author": "shigebeyond",
   "license": "MIT",
   "bugs": {
