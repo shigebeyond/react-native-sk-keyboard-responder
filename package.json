@@ -1,6 +1,6 @@
 {
   "name": "react-native-sk-keyboard-responder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Component which wrap a View, and respond to keyboard show up: 1 move up 2 reduce height",
   "main": "index.js",
   "scripts": {
