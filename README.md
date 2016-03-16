@@ -197,4 +197,4 @@ Any [View property](http://facebook.github.io/react-native/docs/view.html) and t
 
 | Prop | Description | Default |
 |---|---|---|
-|**`initHeight`**|Set view's height before keyboard show up, only for KeyBoardResizeView. For example, when you render the view under NavigatorBar, you maybe want less height |*None*|
+|**`initHeight`**|Set view's height before keyboard show up, only for KeyBoardResizeView. For example, when you render the view under NavigatorBar, you may want less height |*None*|
